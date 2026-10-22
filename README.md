@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**saramhmd77-sam/saramhmd77-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sara El-Kheishen
 
-Here are some ideas to get you started:
+I like getting past the first answer a dataset gives you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an MIS student working with Excel and Power BI, with SQL and Python in my learning toolkit.
+
+## Things I've worked on
+
+- Retail sales analysis in Excel
+- Supermarket sales analysis in Power BI
+- Marketing campaign analysis in Power BI
+- Multi-category retail sales analysis in Power BI
+
+## What you'll find here
+
+Project files, the questions behind them, the decisions I made along the way, and the parts I'd approach differently next time.
