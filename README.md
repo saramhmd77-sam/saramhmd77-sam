@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sara El-Kheishen</h1>
 
 <p align="center">
-  <b>Data analysis for retail and marketing</b><br>
-  Senior MIS student at Helwan University, Egypt
+  <b>Data Analyst &amp; Marketing Analyst</b><br>
+  Senior MIS student at Capital University, Egypt
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 I like the moment a spreadsheet stops being a spreadsheet and starts answering a business question.
 
-I study Management Information Systems, and most of my work so far sits where data meets commercial decisions: which products carry a store, how customers respond to a campaign, where sales quietly drift. I build in Excel and Power BI, I'm working on SQL, and because I also do SEO, I tend to read numbers with the marketing side in mind.
+I study Management Information Systems at Capital University, and my work sits where data meets business decisions: which products carry a store, how customers respond to a campaign, where sales quietly drift. I build in Excel and Power BI, I write SQL, and because I also do SEO, I tend to read numbers with the marketing side in mind.
 
 ## Projects
 
